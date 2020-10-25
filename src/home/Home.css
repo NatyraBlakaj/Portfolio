@@ -1,0 +1,17 @@
+.intro{
+    height: 520px;
+    width: 100%;
+    background: #000000;
+}
+.intro-text{
+    padding-top: 200px;
+    vertical-align: middle;
+}
+#intro-image{
+    width:auto;
+    height: 400px;
+    margin-top: 60px;
+}
+.btn{
+    margin-left: 42%;
+}
